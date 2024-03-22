@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jathinyattapu" alt="jathinyattapu" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack,**
+- 🌱 I’m currently learning **MERN stack**
 
-- 📫 How to reach me **y.jathinkumar@gmailcom**
+- 📫 How to reach me **y.jathinkumar@gmail.com**
 
-- 📄 Know about my experiences [https://yattapu-jathin-kumar-reddy.w3spaces.com/](https://yattapu-jathin-kumar-reddy.w3spaces.com/)
+- 📄 Know about my experiences <a href="https://yattapu-jathin-kumar-reddy.w3spaces.com/" target="blank"><img src="https://icons8.com/icon/Q5SQTHqQjY0r/briefcase-settings"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
