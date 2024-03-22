@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **y.jathinkumar@gmail.com**
 
-- 📄 Know about my experiences <a href="https://yattapu-jathin-kumar-reddy.w3spaces.com/" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/briefcase-settings.png" alt="briefcase-settings"/></a>
+- 📄 Know about my experiences <a href="https://yattapu-jathin-kumar-reddy.w3spaces.com/" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/briefcase-settings.png" alt="briefcase-settings"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
