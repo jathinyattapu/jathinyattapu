@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **y.jathinkumar@gmail.com**
 
-- 📄 Know about my experiences <a href="https://yattapu-jathin-kumar-reddy.w3spaces.com/" target="blank"><img src="https://icons8.com/icon/Q5SQTHqQjY0r/briefcase-settings"></a>
+- 📄 Know about my experiences <a href="https://yattapu-jathin-kumar-reddy.w3spaces.com/" target="blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC/0lEQVR4nO2aTYhOURjHf2PyjvK18T1GSliQj5TERDYzho1igVJK8j2ysrAjhp2SERaibChNYiZZySTytcRCxoxXPvI5Jtm4OvofPZ3uwh3eucd0//XUvc9znnvO/33OeZ5zz32hQIGoUQKOAq+A5A+lDLTINxocyUAglMNEhLIGtTiDzxITmWiQSAbKr2IoiPAPI1LqR8aJRcpKNKW/zTixSEt/M04sqLeZL7rMkRG/x18QiQRJEZHIkBQRiQxJEZHIkBQRyYBVwEugB2jiP45Ij3l+d4X6SAoiGdCkqLhorKAySAbtYq9nkBBJBli+AbuAqmBgE1LaNmYh8noASXw0M2BSQKYxpf0eY6+Sj8fnGNbIHOAdcAOolW6fxnMG2K3rVtnGAe3ycb4OyxTd3Ih4Er7/9zpE6NZ9M9Cg67c6JLEnPZZMc15Eag2JK/qVw6m3SO384YgXF73rhuBIPzXzIOI67lC/jsQQYAdwE9gI1Ji21cBq4DawHxgBPJHvKfvQvKbWeOCN+nYkQgyXhDghnxfAKGvIc7GfU98XjG420Cn9D0ViobF32kO5PIm49LoXOA30qu/pss0E+lLSr9PNUJv1Zn2cVGpuyINIOMguY2uX7howWfWiTbqrajMM+JTynNyIbNPHntHG1iebI+FRK91Xo3NrZx6wNgYibmrtBOYb24cUInWmzngsUOFsi4GILWz+g+h5k5LrJB1BQqgJCmluRMYAS4GtptitMdOoK2WQrqJPUZsNJkKurqwEJuZBJC39ukrt4dbMMeCxpDXYJD6Qz9nwYXkRmQt8V9/rMvhtl0+vScm/UM7hxWoo8MjM/Wot3oeaOnaL4rYkmxWJg/K9JN979g8HLRV650iTOxq02548l+4WcDclAcwBpqUUyPvy8Sl5lidSEplwl1kpcVXdYaoh4yv1IeCp7jeZOvFF68mnZ0/CvYtEAZeJngEXgbHSbdFAHakDuj4um4vkZUVpOZHBvU+kfeBMjLg1YmELZrRwdSYkYqt/Kn4Ca65D7W+/P/kAAAAASUVORK5CYII="></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
