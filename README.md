@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jathinyattapu" alt="jathinyattapu" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently working as Software Engineer. **MERN stack**
 
 - 📫 How to reach me **y.jathinkumar@gmail.com**
 
