@@ -8,7 +8,6 @@
 - 🌱 I’m currently working as **Software Engineer | Specializing in C#, MERN Stack | Freelancer | Experienced Production Engineer**.
 
 - 📫 How to reach me **y.jathinkumar@gmail.com**
-tings.png" alt="briefcase-settings"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
