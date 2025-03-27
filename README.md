@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jathinyattapu" alt="jathinyattapu" /></a> </p>
 
-- 🌱 I’m currently working as **Software Engineer | Specializing in C#, MERN Stack | Freelancer | Experienced Production Engineer**.
+- 🌱 I’m currently working as **Software Engineer | Specializing in C#, MERN Stack | Freelancer**.
 
 - 📫 How to reach me **y.jathinkumar@gmail.com**
 
